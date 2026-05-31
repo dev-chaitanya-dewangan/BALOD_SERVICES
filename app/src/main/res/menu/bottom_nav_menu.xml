@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/nav_home"
+        android:id="@+id/homeFragment"
         android:icon="@drawable/ic_nav_home"
         android:title="@string/nav_home" />
     <item
-        android:id="@+id/nav_services"
+        android:id="@+id/servicesFragment"
         android:icon="@drawable/ic_nav_services"
         android:title="@string/nav_services" />
     <item
-        android:id="@+id/nav_bookings"
+        android:id="@+id/bookingsFragment"
         android:icon="@drawable/ic_nav_bookings"
         android:title="@string/nav_bookings" />
     <item
-        android:id="@+id/nav_profile"
+        android:id="@+id/profileFragment"
         android:icon="@drawable/ic_nav_profile"
         android:title="@string/nav_profile" />
 </menu>
