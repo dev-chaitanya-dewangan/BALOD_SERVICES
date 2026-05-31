@@ -29,14 +29,14 @@
                 android:layout_width="40dp"
                 android:layout_height="40dp"
                 android:background="@drawable/bg_avatar_circle">
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                <ImageView
+                    android:id="@+id/iv_home_profile"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
                     android:layout_gravity="center"
-                    android:text="A"
-                    android:textColor="@color/color_primary"
-                    android:textSize="18sp"
-                    android:textStyle="bold" />
+                    android:src="@drawable/ic_nav_profile"
+                    android:contentDescription="Profile Picture"
+                    app:tint="@color/color_primary" />
             </FrameLayout>
 
             <!-- Greeting Text -->
@@ -389,13 +389,13 @@
                         app:cornerRadius="20dp" />
                 </LinearLayout>
 
-                <!-- Right: Worker illustration placeholder -->
+                <!-- Right: Worker illustration -->
                 <ImageView
                     android:id="@+id/iv_hero_worker"
                     android:layout_width="120dp"
                     android:layout_height="140dp"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/ic_worker_hero"
+                    android:src="@drawable/persona_mason"
                     android:contentDescription="@null" />
 
             </LinearLayout>
