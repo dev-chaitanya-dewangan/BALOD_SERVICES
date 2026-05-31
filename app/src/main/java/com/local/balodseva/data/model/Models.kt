@@ -36,6 +36,7 @@ data class ServiceCategory(
     val description: String = "",
     val descriptionHindi: String = "",
     val iconResId: Int = 0,
+    val personaResId: Int = 0,
     val color: String = "#6B4EFF",
     val order: Int = 0
 )

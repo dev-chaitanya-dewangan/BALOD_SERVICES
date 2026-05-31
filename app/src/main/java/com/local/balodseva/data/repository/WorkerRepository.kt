@@ -121,23 +121,23 @@ object WorkerRepository {
         ServiceCategory("plumber", "Plumber", "प्लंबर",
             "Pipe, tap, tank repair & fitting",
             "नल, पाइप, टंकी आदि की मरम्मत और फिटिंग",
-            R.drawable.ic_nav_services, "#7C4DFF", 1),
+            R.drawable.ic_nav_services, R.drawable.persona_plumber, "#7C4DFF", 1),
         ServiceCategory("electrician", "Electrician", "इलेक्ट्रीशियन",
             "Wiring, fitting, fans & lights",
             "बिजली फिटिंग, वायरिंग, पंखा, लाइट आदि",
-            R.drawable.ic_nav_services, "#FF6D00", 2),
+            R.drawable.ic_nav_services, R.drawable.persona_electrician, "#FF6D00", 2),
         ServiceCategory("mason", "Mason", "मिस्त्री",
             "Wall, plaster, tiles work",
             "दीवार, प्लास्टर, टाइल्स का काम",
-            R.drawable.ic_nav_services, "#00897B", 3),
+            R.drawable.ic_nav_services, R.drawable.persona_mason, "#00897B", 3),
         ServiceCategory("contractor", "Contractor", "ठेकेदार",
             "Construction, house, building",
             "निर्माण कार्य, मकान, बिल्डिंग आदि",
-            R.drawable.ic_nav_services, "#F57F17", 4),
+            R.drawable.ic_nav_services, R.drawable.persona_contractor, "#F57F17", 4),
         ServiceCategory("mechanic", "Mechanic", "मैकेनिक",
             "Bike, car, scooter servicing",
             "बाइक, कार, स्कूटर की सर्विसिंग और सर्विस",
-            R.drawable.ic_nav_services, "#1565C0", 5)
+            R.drawable.ic_nav_services, R.drawable.persona_mechanic, "#1565C0", 5)
     )
 
     fun getAllWorkers(): List<Worker> = mockWorkers

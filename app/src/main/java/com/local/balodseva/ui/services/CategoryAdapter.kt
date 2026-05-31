@@ -30,6 +30,12 @@ class CategoryAdapter(
         fun bind(category: ServiceCategory) {
             binding.tvCategoryNameHindi.text = category.nameHindi
             binding.tvCategoryDesc.text = category.descriptionHindi
+            
+            if (category.personaResId != 0) {
+                binding.ivCategoryWorker.setImageResource(category.personaResId)
+            } else {
+                binding.ivCategoryWorker.setImageResource(com.local.balodseva.R.drawable.ic_worker_hero)
+            }
 
             binding.btnSeeService.setOnClickListener {
                 onCategoryClick(category)
