@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Purple -->
+    <color name="color_primary">#6B4EFF</color>
+    <color name="color_primary_dark">#4A2FCC</color>
+    <color name="color_primary_light">#EDE9FF</color>
+    <color name="color_primary_container">#F0EDFF</color>
+
+    <!-- WhatsApp Green -->
+    <color name="color_whatsapp">#25D366</color>
+    <color name="color_whatsapp_dark">#1DAE57</color>
+
+    <!-- Category Accent Colors -->
+    <color name="color_plumber">#7C4DFF</color>
+    <color name="color_plumber_bg">#EDE7FF</color>
+    <color name="color_electrician">#FF6D00</color>
+    <color name="color_electrician_bg">#FFF3E0</color>
+    <color name="color_mason">#00897B</color>
+    <color name="color_mason_bg">#E0F2F1</color>
+    <color name="color_contractor">#F57F17</color>
+    <color name="color_contractor_bg">#FFFDE7</color>
+    <color name="color_mechanic">#1565C0</color>
+    <color name="color_mechanic_bg">#E3F2FD</color>
+    <color name="color_carpenter">#6D4C41</color>
+    <color name="color_carpenter_bg">#EFEBE9</color>
+
+    <!-- Backgrounds -->
+    <color name="color_bg_screen">#F8F9FE</color>
+    <color name="color_bg_card">#FFFFFF</color>
+    <color name="color_bg_search">#F0F0F8</color>
+    <color name="color_bg_chip_inactive">#F0F0F8</color>
+
+    <!-- Text Colors -->
+    <color name="color_text_primary">#1A1A2E</color>
+    <color name="color_text_secondary">#6B7280</color>
+    <color name="color_text_hint">#9CA3AF</color>
+    <color name="color_text_on_primary">#FFFFFF</color>
+
+    <!-- Status Colors -->
+    <color name="color_verified_green">#4CAF50</color>
+    <color name="color_star_yellow">#FFA726</color>
+    <color name="color_divider">#E8E8F0</color>
+    <color name="color_badge_text">#6B4EFF</color>
+
+    <!-- Hero Banner -->
+    <color name="color_hero_bg_start">#7C4DFF</color>
+    <color name="color_hero_bg_end">#4A2FCC</color>
+
+    <!-- White/Transparent -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="color_overlay">#88000000</color>
+</resources>

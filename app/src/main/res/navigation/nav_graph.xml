@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.local.balodseva.ui.home.HomeFragment"
+        android:label="HomeFragment"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/servicesFragment"
+        android:name="com.local.balodseva.ui.services.ServicesFragment"
+        android:label="ServicesFragment"
+        tools:layout="@layout/fragment_services" />
+
+    <fragment
+        android:id="@+id/workerDetailFragment"
+        android:name="com.local.balodseva.ui.worker.WorkerDetailFragment"
+        android:label="WorkerDetailFragment"
+        tools:layout="@layout/fragment_worker_detail">
+        <argument
+            android:name="workerId"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/bookingsFragment"
+        android:name="com.local.balodseva.ui.bookings.BookingsFragment"
+        android:label="BookingsFragment"
+        tools:layout="@layout/fragment_bookings" />
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.local.balodseva.ui.profile.ProfileFragment"
+        android:label="ProfileFragment"
+        tools:layout="@layout/fragment_profile" />
+
+</navigation>

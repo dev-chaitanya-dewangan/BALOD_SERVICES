@@ -1,0 +1,3616 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "build.gradle.kts",
+      "file_type": "code",
+      "source_file": "build.gradle.kts",
+      "source_location": "L1",
+      "id": "build_gradle_kts",
+      "community": 19,
+      "norm_label": "build.gradle.kts"
+    },
+    {
+      "label": "settings.gradle.kts",
+      "file_type": "code",
+      "source_file": "settings.gradle.kts",
+      "source_location": "L1",
+      "id": "settings_gradle_kts",
+      "community": 20,
+      "norm_label": "settings.gradle.kts"
+    },
+    {
+      "label": "build.gradle.kts",
+      "file_type": "code",
+      "source_file": "app/build.gradle.kts",
+      "source_location": "L1",
+      "id": "app_build_gradle_kts",
+      "community": 21,
+      "norm_label": "build.gradle.kts"
+    },
+    {
+      "label": "MainActivity.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/MainActivity.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_local_balodseva_mainactivity_kt",
+      "community": 10,
+      "norm_label": "mainactivity.kt"
+    },
+    {
+      "label": "MainActivity",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/MainActivity.kt",
+      "source_location": "L9",
+      "id": "balodseva_mainactivity_mainactivity",
+      "community": 10,
+      "norm_label": "mainactivity"
+    },
+    {
+      "label": "AppCompatActivity",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "appcompatactivity",
+      "community": 10,
+      "norm_label": "appcompatactivity"
+    },
+    {
+      "label": "ActivityMainBinding",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/MainActivity.kt",
+      "source_location": "L11",
+      "id": "app_src_main_java_com_local_balodseva_mainactivity_kt_activitymainbinding",
+      "community": 10,
+      "norm_label": "activitymainbinding"
+    },
+    {
+      "label": ".onCreate()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/MainActivity.kt",
+      "source_location": "L13",
+      "id": "balodseva_mainactivity_mainactivity_oncreate",
+      "community": 10,
+      "norm_label": ".oncreate()"
+    },
+    {
+      "label": "Bundle",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/MainActivity.kt",
+      "source_location": "L13",
+      "id": "app_src_main_java_com_local_balodseva_mainactivity_kt_bundle",
+      "community": 10,
+      "norm_label": "bundle"
+    },
+    {
+      "label": "Models.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/model/Models.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_local_balodseva_data_model_models_kt",
+      "community": 15,
+      "norm_label": "models.kt"
+    },
+    {
+      "label": "Worker",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/model/Models.kt",
+      "source_location": "L7",
+      "id": "model_models_worker",
+      "community": 15,
+      "norm_label": "worker"
+    },
+    {
+      "label": "ServiceCategory",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/model/Models.kt",
+      "source_location": "L32",
+      "id": "model_models_servicecategory",
+      "community": 15,
+      "norm_label": "servicecategory"
+    },
+    {
+      "label": "Worker.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/model/Worker.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_local_balodseva_data_model_worker_kt",
+      "community": 16,
+      "norm_label": "worker.kt"
+    },
+    {
+      "label": "Worker",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/model/Worker.kt",
+      "source_location": "L3",
+      "id": "model_worker_worker",
+      "community": 16,
+      "norm_label": "worker"
+    },
+    {
+      "label": "WorkerCategory",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/model/Worker.kt",
+      "source_location": "L21",
+      "id": "model_worker_workercategory",
+      "community": 16,
+      "norm_label": "workercategory"
+    },
+    {
+      "label": "WorkerRepository.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_local_balodseva_data_repository_workerrepository_kt",
+      "community": 8,
+      "norm_label": "workerrepository.kt"
+    },
+    {
+      "label": "WorkerRepository",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L12",
+      "id": "repository_workerrepository_workerrepository",
+      "community": 8,
+      "norm_label": "workerrepository"
+    },
+    {
+      "label": ".getAllWorkers()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L143",
+      "id": "repository_workerrepository_workerrepository_getallworkers",
+      "community": 8,
+      "norm_label": ".getallworkers()"
+    },
+    {
+      "label": "List",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L143",
+      "id": "list",
+      "community": 8,
+      "norm_label": "list"
+    },
+    {
+      "label": "Worker",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L143",
+      "id": "app_src_main_java_com_local_balodseva_data_repository_workerrepository_kt_worker",
+      "community": 8,
+      "norm_label": "worker"
+    },
+    {
+      "label": ".getWorkersByCategory()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L145",
+      "id": "repository_workerrepository_workerrepository_getworkersbycategory",
+      "community": 8,
+      "norm_label": ".getworkersbycategory()"
+    },
+    {
+      "label": "String",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L145",
+      "id": "app_src_main_java_com_local_balodseva_data_repository_workerrepository_kt_string",
+      "community": 8,
+      "norm_label": "string"
+    },
+    {
+      "label": ".searchWorkers()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L150",
+      "id": "repository_workerrepository_workerrepository_searchworkers",
+      "community": 8,
+      "norm_label": ".searchworkers()"
+    },
+    {
+      "label": ".getWorkerById()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L163",
+      "id": "repository_workerrepository_workerrepository_getworkerbyid",
+      "community": 8,
+      "norm_label": ".getworkerbyid()"
+    },
+    {
+      "label": ".getAllCategories()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L165",
+      "id": "repository_workerrepository_workerrepository_getallcategories",
+      "community": 8,
+      "norm_label": ".getallcategories()"
+    },
+    {
+      "label": "ServiceCategory",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L165",
+      "id": "app_src_main_java_com_local_balodseva_data_repository_workerrepository_kt_servicecategory",
+      "community": 8,
+      "norm_label": "servicecategory"
+    },
+    {
+      "label": "BookingsFragment.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_local_balodseva_ui_bookings_bookingsfragment_kt",
+      "community": 0,
+      "norm_label": "bookingsfragment.kt"
+    },
+    {
+      "label": "BookingsFragment",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L11",
+      "id": "bookings_bookingsfragment_bookingsfragment",
+      "community": 0,
+      "norm_label": "bookingsfragment"
+    },
+    {
+      "label": "Fragment",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "fragment",
+      "community": 0,
+      "norm_label": "fragment"
+    },
+    {
+      "label": "FragmentBookingsBinding",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L12",
+      "id": "fragmentbookingsbinding",
+      "community": 0,
+      "norm_label": "fragmentbookingsbinding"
+    },
+    {
+      "label": ".onCreateView()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L15",
+      "id": "bookings_bookingsfragment_bookingsfragment_oncreateview",
+      "community": 0,
+      "norm_label": ".oncreateview()"
+    },
+    {
+      "label": "LayoutInflater",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L15",
+      "id": "app_src_main_java_com_local_balodseva_ui_bookings_bookingsfragment_kt_layoutinflater",
+      "community": 0,
+      "norm_label": "layoutinflater"
+    },
+    {
+      "label": "ViewGroup",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L15",
+      "id": "app_src_main_java_com_local_balodseva_ui_bookings_bookingsfragment_kt_viewgroup",
+      "community": 0,
+      "norm_label": "viewgroup"
+    },
+    {
+      "label": "Bundle",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L15",
+      "id": "app_src_main_java_com_local_balodseva_ui_bookings_bookingsfragment_kt_bundle",
+      "community": 0,
+      "norm_label": "bundle"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L15",
+      "id": "app_src_main_java_com_local_balodseva_ui_bookings_bookingsfragment_kt_view",
+      "community": 0,
+      "norm_label": "view"
+    },
+    {
+      "label": ".onDestroyView()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L20",
+      "id": "bookings_bookingsfragment_bookingsfragment_ondestroyview",
+      "community": 0,
+      "norm_label": ".ondestroyview()"
+    },
+    {
+      "label": "HomeFragment.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_local_balodseva_ui_home_homefragment_kt",
+      "community": 3,
+      "norm_label": "homefragment.kt"
+    },
+    {
+      "label": "HomeFragment",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L15",
+      "id": "home_homefragment_homefragment",
+      "community": 3,
+      "norm_label": "homefragment"
+    },
+    {
+      "label": "FragmentHomeBinding",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L17",
+      "id": "fragmenthomebinding",
+      "community": 3,
+      "norm_label": "fragmenthomebinding"
+    },
+    {
+      "label": ".onCreateView()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L20",
+      "id": "home_homefragment_homefragment_oncreateview",
+      "community": 3,
+      "norm_label": ".oncreateview()"
+    },
+    {
+      "label": "LayoutInflater",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L20",
+      "id": "app_src_main_java_com_local_balodseva_ui_home_homefragment_kt_layoutinflater",
+      "community": 3,
+      "norm_label": "layoutinflater"
+    },
+    {
+      "label": "ViewGroup",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L20",
+      "id": "app_src_main_java_com_local_balodseva_ui_home_homefragment_kt_viewgroup",
+      "community": 3,
+      "norm_label": "viewgroup"
+    },
+    {
+      "label": "Bundle",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L20",
+      "id": "app_src_main_java_com_local_balodseva_ui_home_homefragment_kt_bundle",
+      "community": 3,
+      "norm_label": "bundle"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L20",
+      "id": "app_src_main_java_com_local_balodseva_ui_home_homefragment_kt_view",
+      "community": 3,
+      "norm_label": "view"
+    },
+    {
+      "label": ".onViewCreated()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L28",
+      "id": "home_homefragment_homefragment_onviewcreated",
+      "community": 3,
+      "norm_label": ".onviewcreated()"
+    },
+    {
+      "label": ".setupSearchBar()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L36",
+      "id": "home_homefragment_homefragment_setupsearchbar",
+      "community": 3,
+      "norm_label": ".setupsearchbar()"
+    },
+    {
+      "label": ".setupCategoryChips()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L50",
+      "id": "home_homefragment_homefragment_setupcategorychips",
+      "community": 3,
+      "norm_label": ".setupcategorychips()"
+    },
+    {
+      "label": ".setupHeroCTA()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L71",
+      "id": "home_homefragment_homefragment_setupherocta",
+      "community": 3,
+      "norm_label": ".setupherocta()"
+    },
+    {
+      "label": ".navigateToServices()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L77",
+      "id": "home_homefragment_homefragment_navigatetoservices",
+      "community": 3,
+      "norm_label": ".navigatetoservices()"
+    },
+    {
+      "label": "String",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L77",
+      "id": "app_src_main_java_com_local_balodseva_ui_home_homefragment_kt_string",
+      "community": 3,
+      "norm_label": "string"
+    },
+    {
+      "label": ".onDestroyView()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L81",
+      "id": "home_homefragment_homefragment_ondestroyview",
+      "community": 3,
+      "norm_label": ".ondestroyview()"
+    },
+    {
+      "label": "MainActivity.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_local_balodseva_ui_home_mainactivity_kt",
+      "community": 6,
+      "norm_label": "mainactivity.kt"
+    },
+    {
+      "label": "MainActivity",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L14",
+      "id": "home_mainactivity_mainactivity",
+      "community": 6,
+      "norm_label": "mainactivity"
+    },
+    {
+      "label": "ActivityMainBinding",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L16",
+      "id": "app_src_main_java_com_local_balodseva_ui_home_mainactivity_kt_activitymainbinding",
+      "community": 6,
+      "norm_label": "activitymainbinding"
+    },
+    {
+      "label": "WorkerAdapter",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L17",
+      "id": "workeradapter",
+      "community": 6,
+      "norm_label": "workeradapter"
+    },
+    {
+      "label": ".onCreate()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L20",
+      "id": "home_mainactivity_mainactivity_oncreate",
+      "community": 6,
+      "norm_label": ".oncreate()"
+    },
+    {
+      "label": "Bundle",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L20",
+      "id": "app_src_main_java_com_local_balodseva_ui_home_mainactivity_kt_bundle",
+      "community": 6,
+      "norm_label": "bundle"
+    },
+    {
+      "label": ".setupRecyclerView()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L31",
+      "id": "home_mainactivity_mainactivity_setuprecyclerview",
+      "community": 6,
+      "norm_label": ".setuprecyclerview()"
+    },
+    {
+      "label": ".setupCategoryChips()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L41",
+      "id": "home_mainactivity_mainactivity_setupcategorychips",
+      "community": 6,
+      "norm_label": ".setupcategorychips()"
+    },
+    {
+      "label": ".filterByCategory()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L51",
+      "id": "home_mainactivity_mainactivity_filterbycategory",
+      "community": 6,
+      "norm_label": ".filterbycategory()"
+    },
+    {
+      "label": "WorkerCategory",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L51",
+      "id": "workercategory",
+      "community": 6,
+      "norm_label": "workercategory"
+    },
+    {
+      "label": ".setupSearch()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L56",
+      "id": "home_mainactivity_mainactivity_setupsearch",
+      "community": 6,
+      "norm_label": ".setupsearch()"
+    },
+    {
+      "label": ".loadWorkers()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L72",
+      "id": "home_mainactivity_mainactivity_loadworkers",
+      "community": 6,
+      "norm_label": ".loadworkers()"
+    },
+    {
+      "label": "WorkerAdapter.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/WorkerAdapter.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_local_balodseva_ui_home_workeradapter_kt",
+      "community": 11,
+      "norm_label": "workeradapter.kt"
+    },
+    {
+      "label": "onCreateViewHolder()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/WorkerAdapter.kt",
+      "source_location": "L15",
+      "id": "home_workeradapter_oncreateviewholder",
+      "community": 11,
+      "norm_label": "oncreateviewholder()"
+    },
+    {
+      "label": "ViewGroup",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/WorkerAdapter.kt",
+      "source_location": "L15",
+      "id": "app_src_main_java_com_local_balodseva_ui_home_workeradapter_kt_viewgroup",
+      "community": 11,
+      "norm_label": "viewgroup"
+    },
+    {
+      "label": "Int",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/WorkerAdapter.kt",
+      "source_location": "L15",
+      "id": "app_src_main_java_com_local_balodseva_ui_home_workeradapter_kt_int",
+      "community": 11,
+      "norm_label": "int"
+    },
+    {
+      "label": "WorkerViewHolder",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/WorkerAdapter.kt",
+      "source_location": "L15",
+      "id": "workerviewholder",
+      "community": 11,
+      "norm_label": "workerviewholder"
+    },
+    {
+      "label": "onBindViewHolder()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/WorkerAdapter.kt",
+      "source_location": "L22",
+      "id": "home_workeradapter_onbindviewholder",
+      "community": 11,
+      "norm_label": "onbindviewholder()"
+    },
+    {
+      "label": "ProfileFragment.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_local_balodseva_ui_profile_profilefragment_kt",
+      "community": 0,
+      "norm_label": "profilefragment.kt"
+    },
+    {
+      "label": "ProfileFragment",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L11",
+      "id": "profile_profilefragment_profilefragment",
+      "community": 0,
+      "norm_label": "profilefragment"
+    },
+    {
+      "label": "FragmentProfileBinding",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L12",
+      "id": "fragmentprofilebinding",
+      "community": 0,
+      "norm_label": "fragmentprofilebinding"
+    },
+    {
+      "label": ".onCreateView()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L15",
+      "id": "profile_profilefragment_profilefragment_oncreateview",
+      "community": 0,
+      "norm_label": ".oncreateview()"
+    },
+    {
+      "label": "LayoutInflater",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L15",
+      "id": "app_src_main_java_com_local_balodseva_ui_profile_profilefragment_kt_layoutinflater",
+      "community": 0,
+      "norm_label": "layoutinflater"
+    },
+    {
+      "label": "ViewGroup",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L15",
+      "id": "app_src_main_java_com_local_balodseva_ui_profile_profilefragment_kt_viewgroup",
+      "community": 0,
+      "norm_label": "viewgroup"
+    },
+    {
+      "label": "Bundle",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L15",
+      "id": "app_src_main_java_com_local_balodseva_ui_profile_profilefragment_kt_bundle",
+      "community": 0,
+      "norm_label": "bundle"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L15",
+      "id": "app_src_main_java_com_local_balodseva_ui_profile_profilefragment_kt_view",
+      "community": 0,
+      "norm_label": "view"
+    },
+    {
+      "label": ".onDestroyView()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L20",
+      "id": "profile_profilefragment_profilefragment_ondestroyview",
+      "community": 0,
+      "norm_label": ".ondestroyview()"
+    },
+    {
+      "label": "CategoryAdapter.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_local_balodseva_ui_services_categoryadapter_kt",
+      "community": 1,
+      "norm_label": "categoryadapter.kt"
+    },
+    {
+      "label": "CategoryAdapter",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L11",
+      "id": "services_categoryadapter_categoryadapter",
+      "community": 1,
+      "norm_label": "categoryadapter"
+    },
+    {
+      "label": "ListAdapter",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "listadapter",
+      "community": 1,
+      "norm_label": "listadapter"
+    },
+    {
+      "label": "ServiceCategory",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L11",
+      "id": "app_src_main_java_com_local_balodseva_ui_services_categoryadapter_kt_servicecategory",
+      "community": 1,
+      "norm_label": "servicecategory"
+    },
+    {
+      "label": ".onCreateViewHolder()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L15",
+      "id": "services_categoryadapter_categoryadapter_oncreateviewholder",
+      "community": 1,
+      "norm_label": ".oncreateviewholder()"
+    },
+    {
+      "label": "ViewGroup",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L15",
+      "id": "app_src_main_java_com_local_balodseva_ui_services_categoryadapter_kt_viewgroup",
+      "community": 1,
+      "norm_label": "viewgroup"
+    },
+    {
+      "label": "Int",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L15",
+      "id": "app_src_main_java_com_local_balodseva_ui_services_categoryadapter_kt_int",
+      "community": 1,
+      "norm_label": "int"
+    },
+    {
+      "label": "CategoryViewHolder",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L15",
+      "id": "categoryviewholder",
+      "community": 1,
+      "norm_label": "categoryviewholder"
+    },
+    {
+      "label": ".onBindViewHolder()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L22",
+      "id": "services_categoryadapter_categoryadapter_onbindviewholder",
+      "community": 1,
+      "norm_label": ".onbindviewholder()"
+    },
+    {
+      "label": "CategoryViewHolder",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L26",
+      "id": "services_categoryadapter_categoryviewholder",
+      "community": 1,
+      "norm_label": "categoryviewholder"
+    },
+    {
+      "label": "RecyclerView",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "recyclerview",
+      "community": 1,
+      "norm_label": "recyclerview"
+    },
+    {
+      "label": ".bind()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L30",
+      "id": "services_categoryadapter_categoryviewholder_bind",
+      "community": 1,
+      "norm_label": ".bind()"
+    },
+    {
+      "label": "DiffCallback",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L44",
+      "id": "services_categoryadapter_diffcallback",
+      "community": 1,
+      "norm_label": "diffcallback"
+    },
+    {
+      "label": "DiffUtil",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "diffutil",
+      "community": 1,
+      "norm_label": "diffutil"
+    },
+    {
+      "label": ".areItemsTheSame()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L45",
+      "id": "services_categoryadapter_diffcallback_areitemsthesame",
+      "community": 1,
+      "norm_label": ".areitemsthesame()"
+    },
+    {
+      "label": ".areContentsTheSame()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L47",
+      "id": "services_categoryadapter_diffcallback_arecontentsthesame",
+      "community": 1,
+      "norm_label": ".arecontentsthesame()"
+    },
+    {
+      "label": "ServicesFragment.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_local_balodseva_ui_services_servicesfragment_kt",
+      "community": 7,
+      "norm_label": "servicesfragment.kt"
+    },
+    {
+      "label": "ServicesFragment",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L15",
+      "id": "services_servicesfragment_servicesfragment",
+      "community": 7,
+      "norm_label": "servicesfragment"
+    },
+    {
+      "label": "FragmentServicesBinding",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L17",
+      "id": "fragmentservicesbinding",
+      "community": 7,
+      "norm_label": "fragmentservicesbinding"
+    },
+    {
+      "label": "CategoryAdapter",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L19",
+      "id": "categoryadapter",
+      "community": 7,
+      "norm_label": "categoryadapter"
+    },
+    {
+      "label": ".onCreateView()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L21",
+      "id": "services_servicesfragment_servicesfragment_oncreateview",
+      "community": 7,
+      "norm_label": ".oncreateview()"
+    },
+    {
+      "label": "LayoutInflater",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L21",
+      "id": "app_src_main_java_com_local_balodseva_ui_services_servicesfragment_kt_layoutinflater",
+      "community": 7,
+      "norm_label": "layoutinflater"
+    },
+    {
+      "label": "ViewGroup",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L21",
+      "id": "app_src_main_java_com_local_balodseva_ui_services_servicesfragment_kt_viewgroup",
+      "community": 7,
+      "norm_label": "viewgroup"
+    },
+    {
+      "label": "Bundle",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L21",
+      "id": "app_src_main_java_com_local_balodseva_ui_services_servicesfragment_kt_bundle",
+      "community": 7,
+      "norm_label": "bundle"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L21",
+      "id": "app_src_main_java_com_local_balodseva_ui_services_servicesfragment_kt_view",
+      "community": 7,
+      "norm_label": "view"
+    },
+    {
+      "label": ".onViewCreated()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L29",
+      "id": "services_servicesfragment_servicesfragment_onviewcreated",
+      "community": 7,
+      "norm_label": ".onviewcreated()"
+    },
+    {
+      "label": ".setupCategoryList()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L34",
+      "id": "services_servicesfragment_servicesfragment_setupcategorylist",
+      "community": 7,
+      "norm_label": ".setupcategorylist()"
+    },
+    {
+      "label": ".onDestroyView()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L54",
+      "id": "services_servicesfragment_servicesfragment_ondestroyview",
+      "community": 7,
+      "norm_label": ".ondestroyview()"
+    },
+    {
+      "label": "WorkerDetailActivity.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailActivity.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailactivity_kt",
+      "community": 22,
+      "norm_label": "workerdetailactivity.kt"
+    },
+    {
+      "label": "WorkerDetailFragment.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt",
+      "community": 2,
+      "norm_label": "workerdetailfragment.kt"
+    },
+    {
+      "label": "WorkerDetailFragment",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L17",
+      "id": "worker_workerdetailfragment_workerdetailfragment",
+      "community": 2,
+      "norm_label": "workerdetailfragment"
+    },
+    {
+      "label": "FragmentWorkerDetailBinding",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L19",
+      "id": "fragmentworkerdetailbinding",
+      "community": 2,
+      "norm_label": "fragmentworkerdetailbinding"
+    },
+    {
+      "label": ".onCreateView()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L22",
+      "id": "worker_workerdetailfragment_workerdetailfragment_oncreateview",
+      "community": 2,
+      "norm_label": ".oncreateview()"
+    },
+    {
+      "label": "LayoutInflater",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L22",
+      "id": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_layoutinflater",
+      "community": 2,
+      "norm_label": "layoutinflater"
+    },
+    {
+      "label": "ViewGroup",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L22",
+      "id": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_viewgroup",
+      "community": 2,
+      "norm_label": "viewgroup"
+    },
+    {
+      "label": "Bundle",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L22",
+      "id": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_bundle",
+      "community": 2,
+      "norm_label": "bundle"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L22",
+      "id": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_view",
+      "community": 2,
+      "norm_label": "view"
+    },
+    {
+      "label": ".onViewCreated()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L30",
+      "id": "worker_workerdetailfragment_workerdetailfragment_onviewcreated",
+      "community": 2,
+      "norm_label": ".onviewcreated()"
+    },
+    {
+      "label": ".bindWorkerData()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L40",
+      "id": "worker_workerdetailfragment_workerdetailfragment_bindworkerdata",
+      "community": 2,
+      "norm_label": ".bindworkerdata()"
+    },
+    {
+      "label": "Worker",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L40",
+      "id": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_worker",
+      "community": 2,
+      "norm_label": "worker"
+    },
+    {
+      "label": ".setupButtons()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L64",
+      "id": "worker_workerdetailfragment_workerdetailfragment_setupbuttons",
+      "community": 2,
+      "norm_label": ".setupbuttons()"
+    },
+    {
+      "label": ".formatCount()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L95",
+      "id": "worker_workerdetailfragment_workerdetailfragment_formatcount",
+      "community": 2,
+      "norm_label": ".formatcount()"
+    },
+    {
+      "label": "Int",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L95",
+      "id": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_int",
+      "community": 2,
+      "norm_label": "int"
+    },
+    {
+      "label": "String",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L95",
+      "id": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_string",
+      "community": 2,
+      "norm_label": "string"
+    },
+    {
+      "label": ".onDestroyView()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L99",
+      "id": "worker_workerdetailfragment_workerdetailfragment_ondestroyview",
+      "community": 2,
+      "norm_label": ".ondestroyview()"
+    },
+    {
+      "label": "graphify.md",
+      "file_type": "document",
+      "source_file": ".agents/rules/graphify.md",
+      "source_location": "L1",
+      "id": "agents_rules_graphify_md",
+      "community": 18,
+      "norm_label": "graphify.md"
+    },
+    {
+      "label": "graphify",
+      "file_type": "document",
+      "source_file": ".agents/rules/graphify.md",
+      "source_location": "L6",
+      "id": "rules_graphify_graphify",
+      "community": 18,
+      "norm_label": "graphify"
+    },
+    {
+      "label": "graphify.md",
+      "file_type": "document",
+      "source_file": ".agents/workflows/graphify.md",
+      "source_location": "L1",
+      "id": "agents_workflows_graphify_md",
+      "community": 17,
+      "norm_label": "graphify.md"
+    },
+    {
+      "label": "Workflow: graphify",
+      "file_type": "document",
+      "source_file": ".agents/workflows/graphify.md",
+      "source_location": "L6",
+      "id": "workflows_graphify_workflow_graphify",
+      "community": 17,
+      "norm_label": "workflow: graphify"
+    },
+    {
+      "label": "01_product_vision.md",
+      "file_type": "document",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L1",
+      "id": "docs_01_product_vision_md",
+      "community": 9,
+      "norm_label": "01_product_vision.md"
+    },
+    {
+      "label": "01 \u2014 Product Vision & PM Brief",
+      "file_type": "document",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L1",
+      "id": "docs_01_product_vision_01_product_vision_pm_brief",
+      "community": 9,
+      "norm_label": "01 \u2014 product vision & pm brief"
+    },
+    {
+      "label": "Problem Statement",
+      "file_type": "document",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L3",
+      "id": "docs_01_product_vision_problem_statement",
+      "community": 9,
+      "norm_label": "problem statement"
+    },
+    {
+      "label": "Solution",
+      "file_type": "document",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L14",
+      "id": "docs_01_product_vision_solution",
+      "community": 9,
+      "norm_label": "solution"
+    },
+    {
+      "label": "Target Users",
+      "file_type": "document",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L21",
+      "id": "docs_01_product_vision_target_users",
+      "community": 9,
+      "norm_label": "target users"
+    },
+    {
+      "label": "Primary \u2014 The Seeker (App User)",
+      "file_type": "document",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L23",
+      "id": "docs_01_product_vision_primary_the_seeker_app_user",
+      "community": 9,
+      "norm_label": "primary \u2014 the seeker (app user)"
+    },
+    {
+      "label": "Secondary \u2014 The Worker (App Partner / Revenue Source)",
+      "file_type": "document",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L30",
+      "id": "docs_01_product_vision_secondary_the_worker_app_partner_revenue_source",
+      "community": 9,
+      "norm_label": "secondary \u2014 the worker (app partner / revenue source)"
+    },
+    {
+      "label": "Success Metrics (V1 \u2014 90 Days)",
+      "file_type": "document",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L37",
+      "id": "docs_01_product_vision_success_metrics_v1_90_days",
+      "community": 9,
+      "norm_label": "success metrics (v1 \u2014 90 days)"
+    },
+    {
+      "label": "Scope \u2014 V1 (What We Build First)",
+      "file_type": "document",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L45",
+      "id": "docs_01_product_vision_scope_v1_what_we_build_first",
+      "community": 9,
+      "norm_label": "scope \u2014 v1 (what we build first)"
+    },
+    {
+      "label": "Out of Scope (V1)",
+      "file_type": "document",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L56",
+      "id": "docs_01_product_vision_out_of_scope_v1",
+      "community": 9,
+      "norm_label": "out of scope (v1)"
+    },
+    {
+      "label": "02_system_architecture.md",
+      "file_type": "document",
+      "source_file": "docs/02_system_architecture.md",
+      "source_location": "L1",
+      "id": "docs_02_system_architecture_md",
+      "community": 13,
+      "norm_label": "02_system_architecture.md"
+    },
+    {
+      "label": "02 \u2014 System Architecture",
+      "file_type": "document",
+      "source_file": "docs/02_system_architecture.md",
+      "source_location": "L1",
+      "id": "docs_02_system_architecture_02_system_architecture",
+      "community": 13,
+      "norm_label": "02 \u2014 system architecture"
+    },
+    {
+      "label": "High-Level Architecture",
+      "file_type": "document",
+      "source_file": "docs/02_system_architecture.md",
+      "source_location": "L3",
+      "id": "docs_02_system_architecture_high_level_architecture",
+      "community": 13,
+      "norm_label": "high-level architecture"
+    },
+    {
+      "label": "03_ui_design_spec.md",
+      "file_type": "document",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L1",
+      "id": "docs_03_ui_design_spec_md",
+      "community": 4,
+      "norm_label": "03_ui_design_spec.md"
+    },
+    {
+      "label": "03 \u2014 UI Design Specification",
+      "file_type": "document",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L1",
+      "id": "docs_03_ui_design_spec_03_ui_design_specification",
+      "community": 4,
+      "norm_label": "03 \u2014 ui design specification"
+    },
+    {
+      "label": "Reference UI (Source Image)",
+      "file_type": "document",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L3",
+      "id": "docs_03_ui_design_spec_reference_ui_source_image",
+      "community": 4,
+      "norm_label": "reference ui (source image)"
+    },
+    {
+      "label": "Design System Tokens",
+      "file_type": "document",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L9",
+      "id": "docs_03_ui_design_spec_design_system_tokens",
+      "community": 4,
+      "norm_label": "design system tokens"
+    },
+    {
+      "label": "Color Palette",
+      "file_type": "document",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L11",
+      "id": "docs_03_ui_design_spec_color_palette",
+      "community": 4,
+      "norm_label": "color palette"
+    },
+    {
+      "label": "Typography (Noto Sans Devanagari + Inter)",
+      "file_type": "document",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L26",
+      "id": "docs_03_ui_design_spec_typography_noto_sans_devanagari_inter",
+      "community": 4,
+      "norm_label": "typography (noto sans devanagari + inter)"
+    },
+    {
+      "label": "Spacing & Radius",
+      "file_type": "document",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L37",
+      "id": "docs_03_ui_design_spec_spacing_radius",
+      "community": 4,
+      "norm_label": "spacing & radius"
+    },
+    {
+      "label": "Screen-by-Screen Breakdown",
+      "file_type": "document",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L47",
+      "id": "docs_03_ui_design_spec_screen_by_screen_breakdown",
+      "community": 4,
+      "norm_label": "screen-by-screen breakdown"
+    },
+    {
+      "label": "Screen 1 \u2014 Home (HomeFragment)",
+      "file_type": "document",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L49",
+      "id": "docs_03_ui_design_spec_screen_1_home_homefragment",
+      "community": 4,
+      "norm_label": "screen 1 \u2014 home (homefragment)"
+    },
+    {
+      "label": "Screen 2 \u2014 Services List (ServicesFragment)",
+      "file_type": "document",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L76",
+      "id": "docs_03_ui_design_spec_screen_2_services_list_servicesfragment",
+      "community": 4,
+      "norm_label": "screen 2 \u2014 services list (servicesfragment)"
+    },
+    {
+      "label": "Screen 3 \u2014 Worker Detail (WorkerDetailFragment)",
+      "file_type": "document",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L99",
+      "id": "docs_03_ui_design_spec_screen_3_worker_detail_workerdetailfragment",
+      "community": 4,
+      "norm_label": "screen 3 \u2014 worker detail (workerdetailfragment)"
+    },
+    {
+      "label": "Bottom Navigation Items",
+      "file_type": "document",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L128",
+      "id": "docs_03_ui_design_spec_bottom_navigation_items",
+      "community": 4,
+      "norm_label": "bottom navigation items"
+    },
+    {
+      "label": "04_firebase_setup.md",
+      "file_type": "document",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L1",
+      "id": "docs_04_firebase_setup_md",
+      "community": 5,
+      "norm_label": "04_firebase_setup.md"
+    },
+    {
+      "label": "04 \u2014 Firebase Setup Guide",
+      "file_type": "document",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L1",
+      "id": "docs_04_firebase_setup_04_firebase_setup_guide",
+      "community": 5,
+      "norm_label": "04 \u2014 firebase setup guide"
+    },
+    {
+      "label": "Step 1: Create Firebase Project",
+      "file_type": "document",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L3",
+      "id": "docs_04_firebase_setup_step_1_create_firebase_project",
+      "community": 5,
+      "norm_label": "step 1: create firebase project"
+    },
+    {
+      "label": "Step 2: Add Android App",
+      "file_type": "document",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L9",
+      "id": "docs_04_firebase_setup_step_2_add_android_app",
+      "community": 5,
+      "norm_label": "step 2: add android app"
+    },
+    {
+      "label": "Step 3: Enable Phone Auth",
+      "file_type": "document",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L16",
+      "id": "docs_04_firebase_setup_step_3_enable_phone_auth",
+      "community": 5,
+      "norm_label": "step 3: enable phone auth"
+    },
+    {
+      "label": "Step 4: Setup Firestore",
+      "file_type": "document",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L23",
+      "id": "docs_04_firebase_setup_step_4_setup_firestore",
+      "community": 5,
+      "norm_label": "step 4: setup firestore"
+    },
+    {
+      "label": "Step 5: Security Rules (Production)",
+      "file_type": "document",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L28",
+      "id": "docs_04_firebase_setup_step_5_security_rules_production",
+      "community": 5,
+      "norm_label": "step 5: security rules (production)"
+    },
+    {
+      "label": "Step 6: Firebase Storage Rules",
+      "file_type": "document",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L52",
+      "id": "docs_04_firebase_setup_step_6_firebase_storage_rules",
+      "community": 5,
+      "norm_label": "step 6: firebase storage rules"
+    },
+    {
+      "label": "Step 7: Seed Initial Data (Firestore)",
+      "file_type": "document",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L68",
+      "id": "docs_04_firebase_setup_step_7_seed_initial_data_firestore",
+      "community": 5,
+      "norm_label": "step 7: seed initial data (firestore)"
+    },
+    {
+      "label": "categories collection",
+      "file_type": "document",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L71",
+      "id": "docs_04_firebase_setup_categories_collection",
+      "community": 5,
+      "norm_label": "categories collection"
+    },
+    {
+      "label": "Gradle Dependencies Required",
+      "file_type": "document",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L107",
+      "id": "docs_04_firebase_setup_gradle_dependencies_required",
+      "community": 5,
+      "norm_label": "gradle dependencies required"
+    },
+    {
+      "label": "google-services.json Placeholder",
+      "file_type": "document",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L122",
+      "id": "docs_04_firebase_setup_google_services_json_placeholder",
+      "community": 5,
+      "norm_label": "google-services.json placeholder"
+    },
+    {
+      "label": "08_dev_rules.md",
+      "file_type": "document",
+      "source_file": "docs/08_dev_rules.md",
+      "source_location": "L1",
+      "id": "docs_08_dev_rules_md",
+      "community": 12,
+      "norm_label": "08_dev_rules.md"
+    },
+    {
+      "label": "08 \u2014 Development Rules & Standards",
+      "file_type": "document",
+      "source_file": "docs/08_dev_rules.md",
+      "source_location": "L1",
+      "id": "docs_08_dev_rules_08_development_rules_standards",
+      "community": 12,
+      "norm_label": "08 \u2014 development rules & standards"
+    },
+    {
+      "label": "Coding Standards",
+      "file_type": "document",
+      "source_file": "docs/08_dev_rules.md",
+      "source_location": "L3",
+      "id": "docs_08_dev_rules_coding_standards",
+      "community": 12,
+      "norm_label": "coding standards"
+    },
+    {
+      "label": "Naming Conventions",
+      "file_type": "document",
+      "source_file": "docs/08_dev_rules.md",
+      "source_location": "L11",
+      "id": "docs_08_dev_rules_naming_conventions",
+      "community": 12,
+      "norm_label": "naming conventions"
+    },
+    {
+      "label": "Git Commit Rules",
+      "file_type": "document",
+      "source_file": "docs/08_dev_rules.md",
+      "source_location": "L23",
+      "id": "docs_08_dev_rules_git_commit_rules",
+      "community": 12,
+      "norm_label": "git commit rules"
+    },
+    {
+      "label": "DO / DON'T Rules",
+      "file_type": "document",
+      "source_file": "docs/08_dev_rules.md",
+      "source_location": "L31",
+      "id": "docs_08_dev_rules_do_don_t_rules",
+      "community": 12,
+      "norm_label": "do / don't rules"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "docs/README.md",
+      "source_location": "L1",
+      "id": "docs_readme_md",
+      "community": 14,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "BalodSeva \u2014 Complete Project Documentation",
+      "file_type": "document",
+      "source_file": "docs/README.md",
+      "source_location": "L1",
+      "id": "docs_readme_balodseva_complete_project_documentation",
+      "community": 14,
+      "norm_label": "balodseva \u2014 complete project documentation"
+    },
+    {
+      "label": "\ud83d\udccb Master Index",
+      "file_type": "document",
+      "source_file": "docs/README.md",
+      "source_location": "L2",
+      "id": "docs_readme_master_index",
+      "community": 14,
+      "norm_label": "\ud83d\udccb master index"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/MainActivity.kt",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_mainactivity_kt",
+      "target": "balodseva_mainactivity_mainactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/MainActivity.kt",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "field",
+      "source": "balodseva_mainactivity_mainactivity",
+      "target": "app_src_main_java_com_local_balodseva_mainactivity_kt_activitymainbinding",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/MainActivity.kt",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "balodseva_mainactivity_mainactivity",
+      "target": "appcompatactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/MainActivity.kt",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "balodseva_mainactivity_mainactivity",
+      "target": "balodseva_mainactivity_mainactivity_oncreate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "home_mainactivity_mainactivity",
+      "target": "appcompatactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/MainActivity.kt",
+      "source_location": "L13",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "balodseva_mainactivity_mainactivity_oncreate",
+      "target": "app_src_main_java_com_local_balodseva_mainactivity_kt_bundle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/model/Models.kt",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_data_model_models_kt",
+      "target": "model_models_servicecategory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/model/Models.kt",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_data_model_models_kt",
+      "target": "model_models_worker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/model/Worker.kt",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_data_model_worker_kt",
+      "target": "model_worker_worker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/model/Worker.kt",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_data_model_worker_kt",
+      "target": "model_worker_workercategory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_data_repository_workerrepository_kt",
+      "target": "repository_workerrepository_workerrepository",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "repository_workerrepository_workerrepository",
+      "target": "repository_workerrepository_workerrepository_getallcategories",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L143",
+      "weight": 1.0,
+      "source": "repository_workerrepository_workerrepository",
+      "target": "repository_workerrepository_workerrepository_getallworkers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L163",
+      "weight": 1.0,
+      "source": "repository_workerrepository_workerrepository",
+      "target": "repository_workerrepository_workerrepository_getworkerbyid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L145",
+      "weight": 1.0,
+      "source": "repository_workerrepository_workerrepository",
+      "target": "repository_workerrepository_workerrepository_getworkersbycategory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L150",
+      "weight": 1.0,
+      "source": "repository_workerrepository_workerrepository",
+      "target": "repository_workerrepository_workerrepository_searchworkers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L143",
+      "weight": 1.0,
+      "context": "generic_arg",
+      "source": "repository_workerrepository_workerrepository_getallworkers",
+      "target": "app_src_main_java_com_local_balodseva_data_repository_workerrepository_kt_worker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L143",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "repository_workerrepository_workerrepository_getallworkers",
+      "target": "list",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L165",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "repository_workerrepository_workerrepository_getallcategories",
+      "target": "list",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L145",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "repository_workerrepository_workerrepository_getworkersbycategory",
+      "target": "list",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L150",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "repository_workerrepository_workerrepository_searchworkers",
+      "target": "list",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L163",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "repository_workerrepository_workerrepository_getworkerbyid",
+      "target": "app_src_main_java_com_local_balodseva_data_repository_workerrepository_kt_worker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L145",
+      "weight": 1.0,
+      "context": "generic_arg",
+      "source": "repository_workerrepository_workerrepository_getworkersbycategory",
+      "target": "app_src_main_java_com_local_balodseva_data_repository_workerrepository_kt_worker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L150",
+      "weight": 1.0,
+      "context": "generic_arg",
+      "source": "repository_workerrepository_workerrepository_searchworkers",
+      "target": "app_src_main_java_com_local_balodseva_data_repository_workerrepository_kt_worker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L145",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "repository_workerrepository_workerrepository_getworkersbycategory",
+      "target": "app_src_main_java_com_local_balodseva_data_repository_workerrepository_kt_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L163",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "repository_workerrepository_workerrepository_getworkerbyid",
+      "target": "app_src_main_java_com_local_balodseva_data_repository_workerrepository_kt_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L150",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "repository_workerrepository_workerrepository_searchworkers",
+      "target": "app_src_main_java_com_local_balodseva_data_repository_workerrepository_kt_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/data/repository/WorkerRepository.kt",
+      "source_location": "L165",
+      "weight": 1.0,
+      "context": "generic_arg",
+      "source": "repository_workerrepository_workerrepository_getallcategories",
+      "target": "app_src_main_java_com_local_balodseva_data_repository_workerrepository_kt_servicecategory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_ui_bookings_bookingsfragment_kt",
+      "target": "bookings_bookingsfragment_bookingsfragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "bookings_bookingsfragment_bookingsfragment",
+      "target": "bookings_bookingsfragment_bookingsfragment_oncreateview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "bookings_bookingsfragment_bookingsfragment",
+      "target": "bookings_bookingsfragment_bookingsfragment_ondestroyview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "bookings_bookingsfragment_bookingsfragment",
+      "target": "fragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L12",
+      "weight": 1.0,
+      "context": "field",
+      "source": "bookings_bookingsfragment_bookingsfragment",
+      "target": "fragmentbookingsbinding",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "home_homefragment_homefragment",
+      "target": "fragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "profile_profilefragment_profilefragment",
+      "target": "fragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "services_servicesfragment_servicesfragment",
+      "target": "fragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "worker_workerdetailfragment_workerdetailfragment",
+      "target": "fragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "bookings_bookingsfragment_bookingsfragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_bookings_bookingsfragment_kt_bundle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "bookings_bookingsfragment_bookingsfragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_bookings_bookingsfragment_kt_layoutinflater",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "bookings_bookingsfragment_bookingsfragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_bookings_bookingsfragment_kt_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/bookings/BookingsFragment.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "bookings_bookingsfragment_bookingsfragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_bookings_bookingsfragment_kt_viewgroup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_ui_home_homefragment_kt",
+      "target": "home_homefragment_homefragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L17",
+      "weight": 1.0,
+      "context": "field",
+      "source": "home_homefragment_homefragment",
+      "target": "fragmenthomebinding",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "home_homefragment_homefragment",
+      "target": "home_homefragment_homefragment_navigatetoservices",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "home_homefragment_homefragment",
+      "target": "home_homefragment_homefragment_oncreateview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "home_homefragment_homefragment",
+      "target": "home_homefragment_homefragment_ondestroyview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "home_homefragment_homefragment",
+      "target": "home_homefragment_homefragment_onviewcreated",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "home_homefragment_homefragment",
+      "target": "home_homefragment_homefragment_setupcategorychips",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "home_homefragment_homefragment",
+      "target": "home_homefragment_homefragment_setupherocta",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "home_homefragment_homefragment",
+      "target": "home_homefragment_homefragment_setupsearchbar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L20",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "home_homefragment_homefragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_home_homefragment_kt_bundle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L20",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "home_homefragment_homefragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_home_homefragment_kt_layoutinflater",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L20",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "home_homefragment_homefragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_home_homefragment_kt_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L20",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "home_homefragment_homefragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_home_homefragment_kt_viewgroup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "home_homefragment_homefragment_onviewcreated",
+      "target": "app_src_main_java_com_local_balodseva_ui_home_homefragment_kt_bundle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "home_homefragment_homefragment_onviewcreated",
+      "target": "app_src_main_java_com_local_balodseva_ui_home_homefragment_kt_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "home_homefragment_homefragment_onviewcreated",
+      "target": "home_homefragment_homefragment_setupcategorychips",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "home_homefragment_homefragment_onviewcreated",
+      "target": "home_homefragment_homefragment_setupherocta",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "home_homefragment_homefragment_onviewcreated",
+      "target": "home_homefragment_homefragment_setupsearchbar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "home_homefragment_homefragment_setupcategorychips",
+      "target": "home_homefragment_homefragment_navigatetoservices",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/HomeFragment.kt",
+      "source_location": "L77",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "home_homefragment_homefragment_navigatetoservices",
+      "target": "app_src_main_java_com_local_balodseva_ui_home_homefragment_kt_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_ui_home_mainactivity_kt",
+      "target": "home_mainactivity_mainactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L16",
+      "weight": 1.0,
+      "context": "field",
+      "source": "home_mainactivity_mainactivity",
+      "target": "app_src_main_java_com_local_balodseva_ui_home_mainactivity_kt_activitymainbinding",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "home_mainactivity_mainactivity",
+      "target": "home_mainactivity_mainactivity_filterbycategory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L72",
+      "weight": 1.0,
+      "source": "home_mainactivity_mainactivity",
+      "target": "home_mainactivity_mainactivity_loadworkers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "home_mainactivity_mainactivity",
+      "target": "home_mainactivity_mainactivity_oncreate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "home_mainactivity_mainactivity",
+      "target": "home_mainactivity_mainactivity_setupcategorychips",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "home_mainactivity_mainactivity",
+      "target": "home_mainactivity_mainactivity_setuprecyclerview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "home_mainactivity_mainactivity",
+      "target": "home_mainactivity_mainactivity_setupsearch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L17",
+      "weight": 1.0,
+      "context": "field",
+      "source": "home_mainactivity_mainactivity",
+      "target": "workeradapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "home_mainactivity_mainactivity_setuprecyclerview",
+      "target": "workeradapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L20",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "home_mainactivity_mainactivity_oncreate",
+      "target": "app_src_main_java_com_local_balodseva_ui_home_mainactivity_kt_bundle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "home_mainactivity_mainactivity_oncreate",
+      "target": "home_mainactivity_mainactivity_loadworkers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "home_mainactivity_mainactivity_oncreate",
+      "target": "home_mainactivity_mainactivity_setupcategorychips",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "home_mainactivity_mainactivity_oncreate",
+      "target": "home_mainactivity_mainactivity_setuprecyclerview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "home_mainactivity_mainactivity_oncreate",
+      "target": "home_mainactivity_mainactivity_setupsearch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "home_mainactivity_mainactivity_setupcategorychips",
+      "target": "home_mainactivity_mainactivity_filterbycategory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "home_mainactivity_mainactivity_filterbycategory",
+      "target": "home_mainactivity_mainactivity_loadworkers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/MainActivity.kt",
+      "source_location": "L51",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "home_mainactivity_mainactivity_filterbycategory",
+      "target": "workercategory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/WorkerAdapter.kt",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_ui_home_workeradapter_kt",
+      "target": "home_workeradapter_onbindviewholder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/WorkerAdapter.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_ui_home_workeradapter_kt",
+      "target": "home_workeradapter_oncreateviewholder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/WorkerAdapter.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "home_workeradapter_oncreateviewholder",
+      "target": "app_src_main_java_com_local_balodseva_ui_home_workeradapter_kt_int",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/WorkerAdapter.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "home_workeradapter_oncreateviewholder",
+      "target": "app_src_main_java_com_local_balodseva_ui_home_workeradapter_kt_viewgroup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/WorkerAdapter.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "home_workeradapter_oncreateviewholder",
+      "target": "workerviewholder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/WorkerAdapter.kt",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "home_workeradapter_onbindviewholder",
+      "target": "app_src_main_java_com_local_balodseva_ui_home_workeradapter_kt_int",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/home/WorkerAdapter.kt",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "home_workeradapter_onbindviewholder",
+      "target": "workerviewholder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_ui_profile_profilefragment_kt",
+      "target": "profile_profilefragment_profilefragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L12",
+      "weight": 1.0,
+      "context": "field",
+      "source": "profile_profilefragment_profilefragment",
+      "target": "fragmentprofilebinding",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "profile_profilefragment_profilefragment",
+      "target": "profile_profilefragment_profilefragment_oncreateview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "profile_profilefragment_profilefragment",
+      "target": "profile_profilefragment_profilefragment_ondestroyview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "profile_profilefragment_profilefragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_profile_profilefragment_kt_bundle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "profile_profilefragment_profilefragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_profile_profilefragment_kt_layoutinflater",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "profile_profilefragment_profilefragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_profile_profilefragment_kt_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/profile/ProfileFragment.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "profile_profilefragment_profilefragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_profile_profilefragment_kt_viewgroup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_ui_services_categoryadapter_kt",
+      "target": "services_categoryadapter_categoryadapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_ui_services_categoryadapter_kt",
+      "target": "services_categoryadapter_categoryviewholder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_ui_services_categoryadapter_kt",
+      "target": "services_categoryadapter_diffcallback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "generic_arg",
+      "source": "services_categoryadapter_categoryadapter",
+      "target": "app_src_main_java_com_local_balodseva_ui_services_categoryadapter_kt_servicecategory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "services_categoryadapter_categoryadapter",
+      "target": "listadapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "generic_arg",
+      "source": "services_categoryadapter_categoryadapter",
+      "target": "services_categoryadapter_categoryadapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "services_categoryadapter_categoryadapter",
+      "target": "services_categoryadapter_categoryadapter_onbindviewholder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "services_categoryadapter_categoryadapter",
+      "target": "services_categoryadapter_categoryadapter_oncreateviewholder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L30",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "services_categoryadapter_categoryviewholder_bind",
+      "target": "app_src_main_java_com_local_balodseva_ui_services_categoryadapter_kt_servicecategory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L44",
+      "weight": 1.0,
+      "context": "generic_arg",
+      "source": "services_categoryadapter_diffcallback",
+      "target": "app_src_main_java_com_local_balodseva_ui_services_categoryadapter_kt_servicecategory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L47",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "services_categoryadapter_diffcallback_arecontentsthesame",
+      "target": "app_src_main_java_com_local_balodseva_ui_services_categoryadapter_kt_servicecategory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L45",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "services_categoryadapter_diffcallback_areitemsthesame",
+      "target": "app_src_main_java_com_local_balodseva_ui_services_categoryadapter_kt_servicecategory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "services_categoryadapter_categoryadapter_oncreateviewholder",
+      "target": "app_src_main_java_com_local_balodseva_ui_services_categoryadapter_kt_int",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "services_categoryadapter_categoryadapter_oncreateviewholder",
+      "target": "app_src_main_java_com_local_balodseva_ui_services_categoryadapter_kt_viewgroup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "services_categoryadapter_categoryadapter_oncreateviewholder",
+      "target": "categoryviewholder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "services_categoryadapter_categoryadapter_oncreateviewholder",
+      "target": "services_categoryadapter_categoryviewholder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "services_categoryadapter_categoryadapter_onbindviewholder",
+      "target": "app_src_main_java_com_local_balodseva_ui_services_categoryadapter_kt_int",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "services_categoryadapter_categoryadapter_onbindviewholder",
+      "target": "categoryviewholder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "services_categoryadapter_categoryadapter_onbindviewholder",
+      "target": "services_categoryadapter_categoryviewholder_bind",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "services_categoryadapter_categoryviewholder",
+      "target": "recyclerview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "services_categoryadapter_categoryviewholder",
+      "target": "services_categoryadapter_categoryviewholder_bind",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "services_categoryadapter_diffcallback",
+      "target": "diffutil",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "services_categoryadapter_diffcallback",
+      "target": "services_categoryadapter_diffcallback_arecontentsthesame",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/CategoryAdapter.kt",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "services_categoryadapter_diffcallback",
+      "target": "services_categoryadapter_diffcallback_areitemsthesame",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_ui_services_servicesfragment_kt",
+      "target": "services_servicesfragment_servicesfragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L19",
+      "weight": 1.0,
+      "context": "field",
+      "source": "services_servicesfragment_servicesfragment",
+      "target": "categoryadapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L17",
+      "weight": 1.0,
+      "context": "field",
+      "source": "services_servicesfragment_servicesfragment",
+      "target": "fragmentservicesbinding",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "services_servicesfragment_servicesfragment",
+      "target": "services_servicesfragment_servicesfragment_oncreateview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "services_servicesfragment_servicesfragment",
+      "target": "services_servicesfragment_servicesfragment_ondestroyview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "services_servicesfragment_servicesfragment",
+      "target": "services_servicesfragment_servicesfragment_onviewcreated",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "services_servicesfragment_servicesfragment",
+      "target": "services_servicesfragment_servicesfragment_setupcategorylist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "services_servicesfragment_servicesfragment_setupcategorylist",
+      "target": "categoryadapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L21",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "services_servicesfragment_servicesfragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_services_servicesfragment_kt_bundle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L21",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "services_servicesfragment_servicesfragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_services_servicesfragment_kt_layoutinflater",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L21",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "services_servicesfragment_servicesfragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_services_servicesfragment_kt_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L21",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "services_servicesfragment_servicesfragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_services_servicesfragment_kt_viewgroup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L29",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "services_servicesfragment_servicesfragment_onviewcreated",
+      "target": "app_src_main_java_com_local_balodseva_ui_services_servicesfragment_kt_bundle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L29",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "services_servicesfragment_servicesfragment_onviewcreated",
+      "target": "app_src_main_java_com_local_balodseva_ui_services_servicesfragment_kt_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/services/ServicesFragment.kt",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "services_servicesfragment_servicesfragment_onviewcreated",
+      "target": "services_servicesfragment_servicesfragment_setupcategorylist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt",
+      "target": "worker_workerdetailfragment_workerdetailfragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L19",
+      "weight": 1.0,
+      "context": "field",
+      "source": "worker_workerdetailfragment_workerdetailfragment",
+      "target": "fragmentworkerdetailbinding",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "worker_workerdetailfragment_workerdetailfragment",
+      "target": "worker_workerdetailfragment_workerdetailfragment_bindworkerdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L95",
+      "weight": 1.0,
+      "source": "worker_workerdetailfragment_workerdetailfragment",
+      "target": "worker_workerdetailfragment_workerdetailfragment_formatcount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "worker_workerdetailfragment_workerdetailfragment",
+      "target": "worker_workerdetailfragment_workerdetailfragment_oncreateview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L99",
+      "weight": 1.0,
+      "source": "worker_workerdetailfragment_workerdetailfragment",
+      "target": "worker_workerdetailfragment_workerdetailfragment_ondestroyview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "worker_workerdetailfragment_workerdetailfragment",
+      "target": "worker_workerdetailfragment_workerdetailfragment_onviewcreated",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "worker_workerdetailfragment_workerdetailfragment",
+      "target": "worker_workerdetailfragment_workerdetailfragment_setupbuttons",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "worker_workerdetailfragment_workerdetailfragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_bundle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "worker_workerdetailfragment_workerdetailfragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_layoutinflater",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "worker_workerdetailfragment_workerdetailfragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "worker_workerdetailfragment_workerdetailfragment_oncreateview",
+      "target": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_viewgroup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L30",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "worker_workerdetailfragment_workerdetailfragment_onviewcreated",
+      "target": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_bundle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L30",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "worker_workerdetailfragment_workerdetailfragment_onviewcreated",
+      "target": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "worker_workerdetailfragment_workerdetailfragment_onviewcreated",
+      "target": "worker_workerdetailfragment_workerdetailfragment_bindworkerdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "worker_workerdetailfragment_workerdetailfragment_onviewcreated",
+      "target": "worker_workerdetailfragment_workerdetailfragment_setupbuttons",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L40",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "worker_workerdetailfragment_workerdetailfragment_bindworkerdata",
+      "target": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_worker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "worker_workerdetailfragment_workerdetailfragment_bindworkerdata",
+      "target": "worker_workerdetailfragment_workerdetailfragment_formatcount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L64",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "worker_workerdetailfragment_workerdetailfragment_setupbuttons",
+      "target": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_worker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L95",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "worker_workerdetailfragment_workerdetailfragment_formatcount",
+      "target": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_int",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/local/balodseva/ui/worker/WorkerDetailFragment.kt",
+      "source_location": "L95",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "worker_workerdetailfragment_workerdetailfragment_formatcount",
+      "target": "app_src_main_java_com_local_balodseva_ui_worker_workerdetailfragment_kt_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/rules/graphify.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "agents_rules_graphify_md",
+      "target": "rules_graphify_graphify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/workflows/graphify.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "agents_workflows_graphify_md",
+      "target": "workflows_graphify_workflow_graphify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_01_product_vision_md",
+      "target": "docs_01_product_vision_01_product_vision_pm_brief",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "docs_01_product_vision_01_product_vision_pm_brief",
+      "target": "docs_01_product_vision_out_of_scope_v1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "docs_01_product_vision_01_product_vision_pm_brief",
+      "target": "docs_01_product_vision_problem_statement",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "docs_01_product_vision_01_product_vision_pm_brief",
+      "target": "docs_01_product_vision_scope_v1_what_we_build_first",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "docs_01_product_vision_01_product_vision_pm_brief",
+      "target": "docs_01_product_vision_solution",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "docs_01_product_vision_01_product_vision_pm_brief",
+      "target": "docs_01_product_vision_success_metrics_v1_90_days",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "docs_01_product_vision_01_product_vision_pm_brief",
+      "target": "docs_01_product_vision_target_users",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "docs_01_product_vision_target_users",
+      "target": "docs_01_product_vision_primary_the_seeker_app_user",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01_product_vision.md",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "docs_01_product_vision_target_users",
+      "target": "docs_01_product_vision_secondary_the_worker_app_partner_revenue_source",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02_system_architecture.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_02_system_architecture_md",
+      "target": "docs_02_system_architecture_02_system_architecture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02_system_architecture.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "docs_02_system_architecture_02_system_architecture",
+      "target": "docs_02_system_architecture_high_level_architecture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_03_ui_design_spec_md",
+      "target": "docs_03_ui_design_spec_03_ui_design_specification",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L128",
+      "weight": 1.0,
+      "source": "docs_03_ui_design_spec_03_ui_design_specification",
+      "target": "docs_03_ui_design_spec_bottom_navigation_items",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "docs_03_ui_design_spec_03_ui_design_specification",
+      "target": "docs_03_ui_design_spec_design_system_tokens",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "docs_03_ui_design_spec_03_ui_design_specification",
+      "target": "docs_03_ui_design_spec_reference_ui_source_image",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "docs_03_ui_design_spec_03_ui_design_specification",
+      "target": "docs_03_ui_design_spec_screen_by_screen_breakdown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "docs_03_ui_design_spec_design_system_tokens",
+      "target": "docs_03_ui_design_spec_color_palette",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "docs_03_ui_design_spec_design_system_tokens",
+      "target": "docs_03_ui_design_spec_spacing_radius",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "docs_03_ui_design_spec_design_system_tokens",
+      "target": "docs_03_ui_design_spec_typography_noto_sans_devanagari_inter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "docs_03_ui_design_spec_screen_by_screen_breakdown",
+      "target": "docs_03_ui_design_spec_screen_1_home_homefragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "docs_03_ui_design_spec_screen_by_screen_breakdown",
+      "target": "docs_03_ui_design_spec_screen_2_services_list_servicesfragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03_ui_design_spec.md",
+      "source_location": "L99",
+      "weight": 1.0,
+      "source": "docs_03_ui_design_spec_screen_by_screen_breakdown",
+      "target": "docs_03_ui_design_spec_screen_3_worker_detail_workerdetailfragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_04_firebase_setup_md",
+      "target": "docs_04_firebase_setup_04_firebase_setup_guide",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "docs_04_firebase_setup_04_firebase_setup_guide",
+      "target": "docs_04_firebase_setup_google_services_json_placeholder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L107",
+      "weight": 1.0,
+      "source": "docs_04_firebase_setup_04_firebase_setup_guide",
+      "target": "docs_04_firebase_setup_gradle_dependencies_required",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "docs_04_firebase_setup_04_firebase_setup_guide",
+      "target": "docs_04_firebase_setup_step_1_create_firebase_project",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "docs_04_firebase_setup_04_firebase_setup_guide",
+      "target": "docs_04_firebase_setup_step_2_add_android_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "docs_04_firebase_setup_04_firebase_setup_guide",
+      "target": "docs_04_firebase_setup_step_3_enable_phone_auth",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "docs_04_firebase_setup_04_firebase_setup_guide",
+      "target": "docs_04_firebase_setup_step_4_setup_firestore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "docs_04_firebase_setup_04_firebase_setup_guide",
+      "target": "docs_04_firebase_setup_step_5_security_rules_production",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "docs_04_firebase_setup_04_firebase_setup_guide",
+      "target": "docs_04_firebase_setup_step_6_firebase_storage_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "docs_04_firebase_setup_04_firebase_setup_guide",
+      "target": "docs_04_firebase_setup_step_7_seed_initial_data_firestore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04_firebase_setup.md",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "docs_04_firebase_setup_step_7_seed_initial_data_firestore",
+      "target": "docs_04_firebase_setup_categories_collection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08_dev_rules.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_08_dev_rules_md",
+      "target": "docs_08_dev_rules_08_development_rules_standards",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08_dev_rules.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "docs_08_dev_rules_08_development_rules_standards",
+      "target": "docs_08_dev_rules_coding_standards",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08_dev_rules.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "docs_08_dev_rules_08_development_rules_standards",
+      "target": "docs_08_dev_rules_do_don_t_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08_dev_rules.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "docs_08_dev_rules_08_development_rules_standards",
+      "target": "docs_08_dev_rules_git_commit_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08_dev_rules.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "docs_08_dev_rules_08_development_rules_standards",
+      "target": "docs_08_dev_rules_naming_conventions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_readme_md",
+      "target": "docs_readme_balodseva_complete_project_documentation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/README.md",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "docs_readme_balodseva_complete_project_documentation",
+      "target": "docs_readme_master_index",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

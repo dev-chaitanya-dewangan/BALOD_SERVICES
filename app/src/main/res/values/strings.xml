@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- === APP IDENTITY === -->
+    <string name="app_name">Balod Services</string>
+    <string name="app_tagline">स्थानीय सेवा, आपके द्वार</string>
+
+    <!-- === HOME SCREEN === -->
+    <string name="greeting_prefix">नमस्ते,</string>
+    <string name="default_user_name">अर्जुन साहू</string>
+    <string name="search_hint">कोई भी सेवा खोजें…</string>
+    <string name="trust_badge_1">24/7 सपोर्ट\nहम हमेशा आपके साथ</string>
+    <string name="trust_badge_2">100% सत्यापित\nभरोसेमंद सेवा प्रदाता</string>
+    <string name="hero_title">बेहतरीन सेवा के लिए\nभरोसेमंद कारीगर चुनें</string>
+    <string name="hero_cta">अभी खोजें →</string>
+
+    <!-- === CATEGORY CHIPS === -->
+    <string name="chip_all">सभी</string>
+    <string name="chip_plumber">प्लंबर</string>
+    <string name="chip_electrician">इलेक्ट्रीशियन</string>
+    <string name="chip_mason">मिस्त्री</string>
+    <string name="chip_contractor">ठेकेदार</string>
+    <string name="chip_mechanic">मैकेनिक</string>
+    <string name="chip_carpenter">बढ़ई</string>
+
+    <!-- === SERVICES SCREEN === -->
+    <string name="services_title">सेवाएँ</string>
+    <string name="location_balod">Balod, Chhattisgarh</string>
+    <string name="see_service">सेवा देखें →</string>
+
+    <!-- === WORKER DETAIL SCREEN === -->
+    <string name="verified_by">Balod Services द्वारा सत्यापित</string>
+    <string name="rating_label">रेटिंग</string>
+    <string name="years_exp_label">साल का अनुभव</string>
+    <string name="total_jobs_label">कुल काम</string>
+    <string name="language_label">भाषा</string>
+    <string name="services_offered">सेवाएँ प्रदान की जाने वाली</string>
+    <string name="see_all">और देखें →</string>
+    <string name="work_photos">काम के फोटो</string>
+    <string name="btn_whatsapp">WhatsApp</string>
+    <string name="btn_call">अभी कॉल करें</string>
+
+    <!-- === BOTTOM NAV === -->
+    <string name="nav_home">होम</string>
+    <string name="nav_services">सेवाएँ</string>
+    <string name="nav_bookings">मेरे बुकिंग</string>
+    <string name="nav_profile">प्रोफाइल</string>
+
+    <!-- === CONTENT DESCRIPTIONS === -->
+    <string name="cd_worker_photo">कारीगर की फोटो</string>
+    <string name="cd_verified_icon">सत्यापित बैज</string>
+    <string name="cd_star_icon">स्टार रेटिंग</string>
+    <string name="cd_location_icon">स्थान</string>
+    <string name="cd_search_icon">खोज</string>
+    <string name="cd_back">वापस जाएं</string>
+    <string name="cd_notification">सूचनाएं</string>
+    <string name="cd_cart">कार्ट</string>
+
+    <!-- === CATEGORY DESCRIPTIONS === -->
+    <string name="cat_desc_plumber">नल, पाइप, टंकी आदि की\nमरम्मत और फिटिंग</string>
+    <string name="cat_desc_electrician">बिजली फिटिंग, वायरिंग,\nपंखा, लाइट आदि</string>
+    <string name="cat_desc_mason">दीवार, प्लास्टर, टाइल्स\nका काम</string>
+    <string name="cat_desc_contractor">निर्माण कार्य, मकान,\nबिल्डिंग आदि</string>
+    <string name="cat_desc_mechanic">बाइक, कार, स्कूटर की\nसर्विसिंग और सर्विस</string>
+</resources>
